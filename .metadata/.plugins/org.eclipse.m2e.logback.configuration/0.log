@@ -486,3 +486,7 @@
 2017-12-18 13:25:52,106 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\offC\GitHub\Hello-World-Java\docker-git-hello-world\src\main\resources
 2017-12-18 13:25:52,110 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-12-18 13:25:52,110 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\offC\GitHub\Hello-World-Java\docker-git-hello-world\src\test\resources
+2017-12-18 15:35:26,154 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-18 15:35:26,154 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\offC\GitHub\Hello-World-Java\docker-git-hello-world\src\main\resources
+2017-12-18 15:35:26,161 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-18 15:35:26,161 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\offC\GitHub\Hello-World-Java\docker-git-hello-world\src\test\resources
